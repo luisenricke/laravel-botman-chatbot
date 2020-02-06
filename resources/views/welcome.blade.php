@@ -97,4 +97,16 @@
             </div>
         </div>
     </body>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/assets/css/chat.min.css">
+
+    <script>
+        var botmanWidget = {
+                 aboutText: 'Powered by Luis Villalobos',
+                 aboutLink: 'https://github.com/luisenricke',
+                 introMessage: "Hi, this is a test in Botman"
+             };
+    </script>
+
+    <script src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/widget.js'></script>
 </html>
